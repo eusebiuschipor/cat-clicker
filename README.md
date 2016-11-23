@@ -1,2 +1,2 @@
-# cat-clicker-
+# cat-clicker
 Vanilla MVC example
