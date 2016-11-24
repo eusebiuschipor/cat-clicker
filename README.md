@@ -1,2 +1,2 @@
 # cat-clicker
-Vanilla MVC example
+Vanilla JavaScript MVC example
